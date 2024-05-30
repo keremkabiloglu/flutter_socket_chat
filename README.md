@@ -1,3 +1,6 @@
-# flutter_socket_chat
+# Flutter Real Time Chat Application
 
-A new Flutter project.
+
+
+https://github.com/keremkabiloglu/flutter_socket_chat/assets/23365071/ada2fe2b-6b73-46f7-9558-81f632b70598
+
