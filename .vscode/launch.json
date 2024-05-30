@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (iPhone 15)",
+      "program": "lib/main.dart",
+      "deviceId": "35CFA697-6E43-4D78-92EB-F26FB505780A",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug"
+    },
+    {
+      "name": "Flutter (iPhone 15 Pro)",
+      "program": "lib/main.dart",
+      "deviceId": "0715901E-228F-478D-AE7F-9B9A9FCB0A2D",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug"
+    },
+    {
+      "name": "Flutter (iPhone 15 Plus)",
+      "program": "lib/main.dart",
+      "deviceId": "44F9660D-743C-49F8-A846-E3CA048DECA0",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug"
+    }
+  ]
+}
